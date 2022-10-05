@@ -1,0 +1,26 @@
+configuration :
+
+git init ---> initializing empty repository
+
+creditials:
+git config --global user.name "vishnu"
+git config --global user.email "vishnudevop0@gmail.com
+
+remove :
+
+git config --global --unset user.name
+git config --global --unset user.email
+
+touch vvr
+git status
+git add vvr
+git status
+git commit -m "1st one"
+git log
+git show cid
+
+git clone https://github.com/Vishnuvardhanareddy593/raki19.git
+ls
+git push
+
+
